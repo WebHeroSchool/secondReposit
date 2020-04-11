@@ -1,0 +1,23 @@
+main {
+ font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  background: #1E90FF;
+  font-size: 50px;
+
+
+}
+
+h2 {
+ margin-top: 40px;
+ text-align: center;
+
+}
+
+p {
+ margin-top: 70px;
+ margin-left: 30px;
+ font-size: 25px;
